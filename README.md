@@ -52,7 +52,7 @@ Table of Contents
 Overview <a name="overview"></a>
 ========
 
-This was my third project as part of the General Assembly immersive Software Engineering course, in which my group built a full stack application called Mugglemore, a meetup site for Harry Potter fans, using MongoDb, Express, React and Node.
+This was my third project as part of the General Assembly immersive Software Engineering course, in which my group built a full stack application called Mugglemore, a meetup site for Harry Potter fans, using MongoDB, Express, React and Node.
 
 Project Brief <a name="projectbrief"></a>
 =============
